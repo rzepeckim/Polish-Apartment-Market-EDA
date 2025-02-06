@@ -1,7 +1,6 @@
 # Polish Apartment Market EDA
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
 > More insights and detailed descriptions can be found in the Jupyter Notebook:  
 📌 [Polish_Apartment_Market_EDA.ipynb](Polish_Apartment_Market_EDA.ipynb)
 
